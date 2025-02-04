@@ -26,7 +26,7 @@ Languages:
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=ML)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=ML)
   ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=ML)
-  ![T-SQL](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=ML)
+  ![T-SQL](https://img.shields.io/badge/-T-SQL-333333?style=flat&logo=ML)
 
 Frameworks:
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
